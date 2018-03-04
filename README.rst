@@ -3,15 +3,15 @@ django-twilio-sms
 
 Twilio integration for SMS-based Django apps
 
-.. image:: https://pypip.in/v/django-twilio-sms/badge.png
+.. image:: https://img.shields.io/pypi/v/django-twilio-sms.svg
     :target: https://pypi.python.org/pypi/django-twilio-sms/
     :alt: Latest Version
 
-.. image:: https://pypip.in/d/django-twilio-sms/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-twilio-sms.svg
     :target: https://pypi.python.org/pypi/django-twilio-sms/
     :alt: Downloads
 
-.. image:: https://pypip.in/license/django-twilio-sms/badge.png
+.. image:: https://img.shields.io/pypi/l/django-twilio-sms.svg
     :target: https://pypi.python.org/pypi/django-twilio-sms/
     :alt: License
 
